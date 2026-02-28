@@ -5,8 +5,8 @@
       "name": "LIVE TIKTOK BOT",
       "shortDescription": "AI pembaca tarot otomatis",
       "fullDescription": "Aplikasi pembacaan tarot berbasis AI dengan sistem live streaming dan TTS otomatis.",
-      "icon": "http://localhost:8080/tarot/card/01_the_fool.jpg",
-      "banner": "http://localhost:8080/tarot/card/01_the_fool.jpg",
+      "icon": "https://drive.google.com/uc?id=1uL85UwHpdvgJuSsAMg7tZHYZrama_FHJ",
+      "banner": "https://drive.google.com/uc?id=1uL85UwHpdvgJuSsAMg7tZHYZrama_FHJ",
       "version": "1.6.0",
       "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/v1.0.0/game.zip",
       "exeName": "Card Tiktok Live.exe"
