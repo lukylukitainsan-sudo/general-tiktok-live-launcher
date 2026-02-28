@@ -1,10 +1,10 @@
 {
   "apps": [
     {
-      "id": "tarot_ai",
+      "id": "Card_live",
       "name": "CARD TIKTOK LIVE",
-      "shortDescription": "AI pembaca tarot otomatis",
-      "fullDescription": "Aplikasi pembacaan tarot berbasis AI dengan sistem live streaming dan TTS otomatis.",
+      "shortDescription": "Card Tiktok Live",
+      "fullDescription": "Live dengan konsep 4 kartu, support TTS, Mp3 dan Mp4",
       "icon": "https://drive.google.com/uc?id=1rrN4sXgaM9Ggt0FDPrYdNIMLHVjWJsv2",
       "banner": "https://drive.google.com/uc?id=1rrN4sXgaM9Ggt0FDPrYdNIMLHVjWJsv2",
       "version": "1.5.0",
