@@ -1,0 +1,28 @@
+{
+  "videos": [
+    {
+      "id": "vid001",
+      "title": "Cara Install Aplikasi",
+      "description": "Tutorial lengkap cara install aplikasi dari launcher.",
+      "url": "https://www.youtube.com/watch?v=ukv0TkJUTU8"
+    },
+    {
+      "id": "vid002",
+      "title": "Cara Update Aplikasi",
+      "description": "Langkah update ke versi terbaru.",
+      "url": "https://www.youtube.com/watch?v=RbwTMPOHGkI"
+    },
+    {
+      "id": "vid003",
+      "title": "Cara Update Aplikasi",
+      "description": "Langkah update ke versi terbaru.",
+      "url": "https://www.youtube.com/watch?v=Z3v7ervShZ8"
+    },
+    {
+      "id": "vid004",
+      "title": "Cara Update Aplikasi",
+      "description": "Langkah update ke versi terbaru.",
+      "url": "https://www.youtube.com/watch?v=M26lcYuLbVU"
+    }
+  ]
+}
