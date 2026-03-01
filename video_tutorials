@@ -1,19 +1,19 @@
 {
   "videos": [
     {
-      "id": "vid001",
+      "id": "card01",
       "title": "Cara Install Aplikasi",
       "description": "Tutorial lengkap cara install aplikasi dari launcher.",
       "url": "https://www.youtube.com/watch?v=ukv0TkJUTU8"
     },
     {
-      "id": "vid002",
+      "id": "card02",
       "title": "Cara Update Aplikasi",
       "description": "Langkah update ke versi terbaru.",
       "url": "https://www.youtube.com/watch?v=RbwTMPOHGkI"
     },
     {
-      "id": "vid003",
+      "id": "card03",
       "title": "Cara Update Aplikasi",
       "description": "Langkah update ke versi terbaru.",
       "url": "https://www.youtube.com/watch?v=Z3v7ervShZ8"
