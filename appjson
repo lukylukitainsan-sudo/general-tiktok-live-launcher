@@ -10,6 +10,19 @@
       "version": "1.5.0",
       "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/v1.0.0/game.zip",
       "exeName": "Card Tiktok Live.exe"
+	  "tutorialKeyword": "Card"
+    },
+ {
+      "id": "cek_khodam",
+      "name": "CEK KHODAM PIRING SAKTI",
+      "shortDescription": "Cek Khodam live tiktok",
+      "fullDescription": "Live dengan Konsep cek Khodam dengan piring dan cincin",
+      "icon": "https://drive.google.com/uc?id=1rrN4sXgaM9Ggt0FDPrYdNIMLHVjWJsv2",
+      "banner": "https://drive.google.com/uc?id=1rrN4sXgaM9Ggt0FDPrYdNIMLHVjWJsv2",
+      "version": "1.5.0",
+      "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/v1.0.0/game.zip",
+      "exeName": "Card Tiktok Live.exe"
+	  "tutorialKeyword": "Card"
     }
 	
   ]
