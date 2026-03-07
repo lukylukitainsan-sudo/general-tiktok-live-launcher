@@ -1,0 +1,16 @@
+{
+  "types": [
+    {
+      "id": "general",
+      "name": "Card General"
+    },
+    {
+      "id": "khodam",
+      "name": "Khodam Reading"
+    },
+    {
+      "id": "love",
+      "name": "Love Tarot"
+    }
+  ]
+}
