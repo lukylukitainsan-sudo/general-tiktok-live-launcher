@@ -15,9 +15,22 @@
     },
  {
       "id": "cek_khodam",
-      "name": "CEK KHODAM PIRING SAKTI",
+      "name": "CEK KHODAM",
       "shortDescription": "Cek Khodam live tiktok",
       "fullDescription": "Live dengan Konsep cek Khodam dengan piring dan cincin",
+      "icon": "https://drive.google.com/uc?id=1rrN4sXgaM9Ggt0FDPrYdNIMLHVjWJsv2",
+      "banner": "https://drive.google.com/uc?id=1rrN4sXgaM9Ggt0FDPrYdNIMLHVjWJsv2",
+      "version": "1.5.0",
+      "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/v1.0.0/game.zip",
+      "exeName": "Card Tiktok Live.exe",
+	  "tutorialKeyword": "vid",
+ 	  "status": false
+    },
+{
+      "id": "Dance",
+      "name": "DANCE CHALLENGE",
+      "shortDescription": "DANCE CHALLENGE",
+      "fullDescription": "Live dengan Konsep Challence Dance, gift akan mentriger gerakan dance, support mp4 file",
       "icon": "https://drive.google.com/uc?id=1rrN4sXgaM9Ggt0FDPrYdNIMLHVjWJsv2",
       "banner": "https://drive.google.com/uc?id=1rrN4sXgaM9Ggt0FDPrYdNIMLHVjWJsv2",
       "version": "1.5.0",
