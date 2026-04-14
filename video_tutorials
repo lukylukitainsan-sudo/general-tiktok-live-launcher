@@ -1,28 +1,28 @@
 {
   "videos": [
     {
-      "id": "card01",
+      "id": "general01",
       "title": "01 Install Xampp",
       "description": "Cara Install Xampp Control Panel untuk menjalankan Tik Stream Pro",
       "url": "https://www.youtube.com/watch?v=C_lIswsMQHQ"
     },
     {
-      "id": "card02",
+      "id": "general02",
       "title": "02 Install Node JS",
       "description": "Cara Install Node JS untuk menjalankan Tik Stream Pro",
       "url": "https://www.youtube.com/watch?v=DZapePESd08"
     },
     {
-      "id": "card03",
+      "id": "general02",
       "title": "03 Install TiktokProxy",
       "description": "Cara Setup TiktoProxy",
       "url": "https://www.youtube.com/watch?v=BcPltp58rEE"
     },
     {
-      "id": "vid004",
-      "title": "Cara Update Aplikasi",
-      "description": "Langkah update ke versi terbaru.",
-      "url": "https://www.youtube.com/watch?v=M26lcYuLbVU"
+      "id": "card01",
+      "title": "Aplikasi Card General",
+      "description": "Cara Menjalankan Aplikasi Card General",
+      "url": "https://www.youtube.com/watch?v=tdYFNBGF2EU"
     }
   ]
 }
