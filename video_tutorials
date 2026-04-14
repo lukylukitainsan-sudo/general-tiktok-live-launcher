@@ -2,21 +2,21 @@
   "videos": [
     {
       "id": "card01",
-      "title": "Cara Install Aplikasi",
-      "description": "Tutorial lengkap cara install aplikasi dari launcher.",
-      "url": "https://www.youtube.com/watch?v=ukv0TkJUTU8"
+      "title": "01 Install Xampp",
+      "description": "Cara Install Xampp Control Panel untuk menjalankan Tik Stream Pro",
+      "url": "https://www.youtube.com/watch?v=C_lIswsMQHQ"
     },
     {
       "id": "card02",
-      "title": "Cara Update Aplikasi",
-      "description": "Langkah update ke versi terbaru.",
-      "url": "https://www.youtube.com/watch?v=RbwTMPOHGkI"
+      "title": "02 Install Node JS",
+      "description": "Cara Install Node JS untuk menjalankan Tik Stream Pro",
+      "url": "https://www.youtube.com/watch?v=DZapePESd08"
     },
     {
       "id": "card03",
-      "title": "Cara Update Aplikasi",
-      "description": "Langkah update ke versi terbaru.",
-      "url": "https://www.youtube.com/watch?v=Z3v7ervShZ8"
+      "title": "03 Install TiktokProxy",
+      "description": "Cara Setup TiktoProxy",
+      "url": "https://www.youtube.com/watch?v=BcPltp58rEE"
     },
     {
       "id": "vid004",
