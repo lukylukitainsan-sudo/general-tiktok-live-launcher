@@ -24,11 +24,17 @@
       "description": "Cara Menjalankan Aplikasi Card General",
       "url": "https://www.youtube.com/watch?v=tdYFNBGF2EU"
     },
-{
+    {
       "id": "Card02",
       "title": "Aplikasi Card General Part 2",
       "description": "Cara Menjalankan Aplikasi Card General",
       "url": "https://www.youtube.com/watch?v=8yw1762vJFM"
+    },
+   {
+      "id": "Card03",
+      "title": "Desain Kartu TAROT",
+      "description": "Cara Mendesain kartu tarot, cuman 5 menit",
+      "url": "https://www.youtube.com/watch?v=Ct_1_PZQQoA"
     }
   ]
 }
