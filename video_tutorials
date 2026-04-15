@@ -41,6 +41,12 @@
       "title": "Membuat JSON Data kartu",
       "description": "Cara membuat isi konten data kartu tarot, tinggal klik generate doang",
       "url": "https://www.youtube.com/watch?v=mqzz54FvAcs"
+    },
+ {
+      "id": "Card05",
+      "title": "Membuat JSON Setting",
+      "description": "Cara membuat JSON Setting, tinggal klik generate Langsung jadi",
+      "url": "https://www.youtube.com/watch?v=zzteoqYBDsw"
     }
   ]
 }
