@@ -35,6 +35,12 @@
       "title": "Desain Kartu TAROT",
       "description": "Cara Mendesain kartu tarot, cuman 5 menit",
       "url": "https://www.youtube.com/watch?v=Ct_1_PZQQoA"
+    },
+   {
+      "id": "Card04",
+      "title": "Membuat JSON Data kartu",
+      "description": "Cara membuat isi konten data kartu tarot, tinggal klik generate doang",
+      "url": "https://www.youtube.com/watch?v=mqzz54FvAcs"
     }
   ]
 }
