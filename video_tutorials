@@ -56,9 +56,15 @@
     },
 {
       "id": "Card07",
-      "title": "Membuat Model Karakter Host Dengan AI",
-      "description": "Cara membuat Membuat Model Karakter Host Dengan AI",
+      "title": "Membuat Model Karakter Host",
+      "description": "Cara Membuat Model Karakter Host Dengan AI",
       "url": "https://www.youtube.com/watch?v=JQ7vb0gODIU"
+    },
+{
+      "id": "Card08",
+      "title": "Karakter Referensi, Ubah Pose, Produk",
+      "description": "Membuat Karakter referensi, mengubah pose dan menambahkan produk",
+      "url": "https://www.youtube.com/watch?v=PSYgYOlZ1l0"
     }
   ]
 }
