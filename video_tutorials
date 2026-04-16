@@ -65,6 +65,12 @@
       "title": "Karakter Referensi, Ubah Pose, Produk",
       "description": "Membuat Karakter referensi, mengubah pose dan menambahkan produk",
       "url": "https://www.youtube.com/watch?v=PSYgYOlZ1l0"
+    },
+{
+      "id": "Card09",
+      "title": "Membuat Animasi Karakter Host",
+      "description": "Membuat host bisa bergerak",
+      "url": "https://www.youtube.com/watch?v=s4MoXhmmdFE"
     }
   ]
 }
