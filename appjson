@@ -30,14 +30,14 @@
       "id": "Khodam",
       "name": "Cek Khodam",
       "shortDescription": "cek khodam",
-      "fullDescription": "Live cek khodam, support mp4 file",
+      "fullDescription": "Live cek khodam dengan fitur kamera atau video",
       "icon": "https://drive.google.com/uc?id=1rrN4sXgaM9Ggt0FDPrYdNIMLHVjWJsv2",
       "banner": "https://drive.google.com/uc?id=1rrN4sXgaM9Ggt0FDPrYdNIMLHVjWJsv2",
-      "version": "1.5.0",
-      "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/v1.0.0/game.zip",
-      "exeName": "Card Tiktok Live.exe",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/cekkhodam/cekkhodam.zip",
+      "exeName": "Cek Khodam.exe",
 	  "tutorialKeyword": "khodam",
- 	  "status": false
+ 	  "status": true
     },
 {
       "id": "VS_battle",
