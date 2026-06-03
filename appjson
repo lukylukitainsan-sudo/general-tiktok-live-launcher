@@ -40,6 +40,19 @@
  	  "status": true
     },
 {
+      "id": "Scraper",
+      "name": "Scraper ID Tiktok",
+      "shortDescription": "Scrape data ID tiktok",
+      "fullDescription": "kumpulkan data UserID Tiktok pemberi gift dari live tertarget, untuk jadi database follower tertarget",
+      "icon": "https://drive.google.com/uc?id=1kgI3PB9xI_ljXxFgTJd5k6j7YiwQLPsW",
+      "banner": "https://drive.google.com/uc?id=1kgI3PB9xI_ljXxFgTJd5k6j7YiwQLPsW",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/scraper/scraper.zip",
+      "exeName": "Scraper.exe",
+	  "tutorialKeyword": "scraper",
+ 	  "status": true
+    },
+{
       "id": "VS_battle",
       "name": "VERSUS BATTLE",
       "shortDescription": "VERSUS BATTLE",
