@@ -53,7 +53,7 @@ r{
  	  "status": true
     },
 {
-      "id": "VS_battle",
+      "id": "botmoderator",
       "name": "Bot Moderator",
       "shortDescription": "Bot untuk moderator membalas komen pemberi gift",
       "fullDescription": "Bot untuk moderator membalas komen pemberi gift",
