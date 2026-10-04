@@ -63,7 +63,7 @@
       "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/moderator/moderator.zip",
       "exeName": "botmoderator.exe",
 	  "tutorialKeyword": "moderator",
- 	  "status": false
+ 	  "status": true
     },
 {
       "id": "cek_weton",
