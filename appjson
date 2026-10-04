@@ -60,7 +60,7 @@ r{
       "icon": "https://drive.google.com/uc?id=1XAuV8tPZox3imlkiDl65NdshmLbeORmA",
       "banner": "https://drive.google.com/uc?id=1XAuV8tPZox3imlkiDl65NdshmLbeORmA",
       "version": "1.0.0",
-      "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/v1.0.0/moderator.zip",
+      "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/moderator/moderator.zip",
       "exeName": "botmoderator.exe",
 	  "tutorialKeyword": "moderator",
  	  "status": true
