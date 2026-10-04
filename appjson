@@ -67,20 +67,6 @@
     },
 
 {
-      "id": "botmoderator",
-      "name": "Bot Moderator",
-      "shortDescription": "Bot untuk moderator membalas komen pemberi gift",
-      "fullDescription": "Bot untuk moderator membalas komen pemberi gift",
-      "icon": "https://drive.google.com/uc?id=1XAuV8tPZox3imlkiDl65NdshmLbeORmA",
-      "banner": "https://drive.google.com/uc?id=1XAuV8tPZox3imlkiDl65NdshmLbeORmA",
-      "version": "1.0.0",
-      "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/moderator/moderator.zip",
-      "exeName": "botmoderator.exe",
-	  "tutorialKeyword": "moderator",
- 	  "status": true
-    },
-
-{
       "id": "cek_weton",
       "name": "CEK WETON",
       "shortDescription": "CEK WETON",
