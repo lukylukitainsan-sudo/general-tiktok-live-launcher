@@ -1,4 +1,4 @@
-{
+r{
   "apps": [
     {
       "id": "Card_live",
@@ -54,16 +54,16 @@
     },
 {
       "id": "VS_battle",
-      "name": "VERSUS BATTLE",
-      "shortDescription": "VERSUS BATTLE",
-      "fullDescription": "Live dengan Konsep versus battle",
+      "name": "Bot Moderator",
+      "shortDescription": "Bot untuk moderator membalas komen pemberi gift",
+      "fullDescription": "Bot untuk moderator membalas komen pemberi gift",
       "icon": "https://drive.google.com/uc?id=1rrN4sXgaM9Ggt0FDPrYdNIMLHVjWJsv2",
       "banner": "https://drive.google.com/uc?id=1rrN4sXgaM9Ggt0FDPrYdNIMLHVjWJsv2",
-      "version": "1.5.0",
-      "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/v1.0.0/game.zip",
-      "exeName": "Card Tiktok Live.exe",
-	  "tutorialKeyword": "vid",
- 	  "status": false
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/v1.0.0/moderator.zip",
+      "exeName": "botmoderator.exe",
+	  "tutorialKeyword": "moderator",
+ 	  "status": true
     },
 {
       "id": "cek_weton",
