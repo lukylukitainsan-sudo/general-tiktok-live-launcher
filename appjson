@@ -65,7 +65,19 @@
 	  "tutorialKeyword": "moderator",
  	  "status": true
     },
-
+{
+      "id": "print",
+      "name": "Hand Print Live",
+      "shortDescription": "Hand Print Live",
+      "fullDescription": "Aplikasi untuk mencetak foto profile di kertas",
+      "icon": "https://drive.google.com/uc?id=1XAuV8tPZox3imlkiDl65NdshmLbeORmA",
+      "banner": "https://drive.google.com/uc?id=1XAuV8tPZox3imlkiDl65NdshmLbeORmA",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/print/handprint.zip",
+      "exeName": "hand print live.exe",
+	  "tutorialKeyword": "print",
+ 	  "status": true
+    },
 {
       "id": "cek_weton",
       "name": "CEK WETON",
