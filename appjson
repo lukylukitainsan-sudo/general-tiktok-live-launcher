@@ -83,14 +83,15 @@
       "name": "New Video Action",
       "shortDescription": "New Video Action",
       "fullDescription": "Aplikasi untuk Action video versi ringan dan anti ribet",
-      "icon": "https://drive.google.com/uc?export=download&id=18sUQ6Et0wXBk-XY-aaOQ48z1Ock3Wymu",
-      "banner": "https://drive.google.com/uc?export=download&id=1X7lKHz-YTE3OdoEi3w_oD0ct9vhzV0gu",
+      "icon": "https://drive.google.com/uc?export=download&id=1X7lKHz-YTE3OdoEi3w_oD0ct9vhzV0gu",
+      "banner": "https://drive.google.com/uc?export=download&id=18sUQ6Et0wXBk-XY-aaOQ48z1Ock3Wymu",
       "version": "2.0",
       "downloadUrl": "https://github.com/lukylukitainsan-sudo/general-tiktok-live-launcher/releases/download/newaction/newaction.zip",
       "exeName": "New Action Video.exe",
 	  "tutorialKeyword": "newaction",
  	  "status": true
     },
+
 {
       "id": "cek_weton",
       "name": "CEK WETON",
